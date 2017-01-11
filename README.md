@@ -10,16 +10,20 @@
 <li>An AWS account with the permissions to create Lambda functions, API Gateway end-points and IAM roles.
 The IAM role name is created when you install your claudia bot builder - see npm commands below.
 Make sure your IAM role include these 3 Managed Policies or else it will NOT WORK. You Have to login to AWS in order to setu this up before deploying the bot to AWS:
-1. AWSLambdaFullAccess
-2. IAMFullAccess
-3. AmazonAPIGatewayAdministrator
+<ul>
+<li>1. AWSLambdaFullAccess
+<li>2. IAMFullAccess
+<li>3. AmazonAPIGatewayAdministrator
+</ul>
 <li>Claudia.js 1.4.0 or later
 </ul>
 
 <code>
-npm init</br>
-npm install claudia-bot-builder -S</br>
-npm install huh -S  (this is for the huh excuse generator)</br>
+<ul>
+<li>npm init
+<li>npm install claudia-bot-builder -S
+<li>npm install huh -S  (this is for the huh excuse generator)
+</ul>
 </code>
 
 <p>create a file called bot.js as listed on the link above</p>
