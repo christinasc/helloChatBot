@@ -1,0 +1,15 @@
+{
+  "name": "hellobot",
+  "version": "1.0.0",
+  "description": "testing claudia hello world lambda bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christinasc",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-bot-builder": "^2.12.0",
+    "huh": "^2.0.1"
+  }
+}

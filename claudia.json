@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "hellobot-executor",
+    "name": "hellobot",
+    "region": "us-west-1"
+  },
+  "api": {
+    "id": "f26v39izq5",
+    "module": "bot"
+  }
+}
