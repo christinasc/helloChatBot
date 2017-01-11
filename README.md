@@ -18,9 +18,9 @@ Make sure your IAM role include these 3 Managed Policies or else it will NOT WOR
 <li>Claudia.js 1.4.0 or later
 </ul>
 
-<code>npm init</code>
-<code>npm install claudia-bot-builder -S </code>
-<code>npm install huh -S  (this is for the huh excuse generator)</code>
+<code>npm init</code> </br>
+<code>npm install claudia-bot-builder -S </code></br>
+<code>npm install huh -S  (this is for the huh excuse generator)</code></br>
 
 <p>create a file called bot.js as listed on the link above</p>
 
