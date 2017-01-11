@@ -21,5 +21,9 @@ claudia create --region us-east-1 --api-module bot
 
 <ul>
 <li>Create a Viber public account, get the token at http://www.viber.com/en/public-accounts
+Viber public accounts are in beta. You will need to sign up for both a Viber user account and a public account. 
+To create the public account, "tap public on the iOS app", then upper corner is a "write icon", tap that
+then "join now" on the Create Public Account page. Then Name your Public account and follow the instructions
+Make your own Viber user an admin of the public account.
 <li>Use claudia update --configure-viber-bot to configure your bot with it’s Viber access token
 </ul>
