@@ -64,8 +64,8 @@ create the public account where your bot will be intalled </p>
 then tap "join now" on the Create Public Account page. Then Name your Public account and follow the instructions
 Make your own Viber user an admin of the public account.</p>
 
-<li>Use claudia update --configure-viber-bot to configure your bot with it’s Viber access token. <br>
-Example: <code> 46234209874587-5c230980..... </code>
+<li>Use <code> claudia update --configure-viber-bot </code> to configure your bot with it’s Viber access token. <br>
+Token Example: <code> 46234209874587-5c230980..... </code>
 <br><br>
 <img src="IMG_8567.PNG" width="300"/>
 
