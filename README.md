@@ -24,9 +24,9 @@ order to set this up before deploying the bot to AWS:
 
 For your sanity, create a new directory with a new virtual environment
 
-<code>mkdir helloChatBot; cd helloChatBot </code>
-<code>virtualenv env </code>
-<code>source env/bin/activate</code>
+<code>mkdir helloChatBot; cd helloChatBot </code> </br>
+<code>virtualenv env </code></br>
+<code>source env/bin/activate</code></br>
 
 Then, do the following:
 (Note that you should not need anything in this repository (helloChatBot) to get started with the exception of bot.js. 
