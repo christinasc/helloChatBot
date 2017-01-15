@@ -51,9 +51,17 @@ claudia create --region us-east-1 --api-module bot
 public account access is activated, go back to the viber user account. </p>
 
 <p>From within your iOS, Desktop or Android app - go to the following icon to
-create the public account where your bot will be intalled, 
-"tap public on the iOS app", then upper corner is a "write icon", tap that
-then "join now" on the Create Public Account page. Then Name your Public account and follow the instructions
+create the public account where your bot will be intalled </p>
+
+<img src="PublicIcon.jpg" width="300"/>
+
+<p>
+"tap public on the iOS app", then upper corner is a "write icon", tap that </p>
+
+<img src="PublicAccountIcon.jpeg" width="300"/>
+
+<p>
+then tap "join now" on the Create Public Account page. Then Name your Public account and follow the instructions
 Make your own Viber user an admin of the public account.</p>
 
 <li>Use claudia update --configure-viber-bot to configure your bot with it’s Viber access token. <br>
