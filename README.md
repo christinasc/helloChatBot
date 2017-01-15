@@ -1,6 +1,7 @@
+<h3>READ THIS FIRST: </h3> 
 <a href="https://claudiajs.com/tutorials/hello-world-chatbot.html">https://claudiajs.com/tutorials/hello-world-chatbot.html</a>
 
-<h3>how to setup: These are my personal notes</h3>
+<h3>how to setup: These are my personal notes the cover what is missing from the above link</h3>
 
 <h4>Prerequisites</h4>
 
